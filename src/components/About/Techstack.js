@@ -1,5 +1,4 @@
 import React from "react";
-import Tilt from "react-parallax-tilt";
 import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
