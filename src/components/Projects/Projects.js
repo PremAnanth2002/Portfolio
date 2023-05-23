@@ -39,8 +39,7 @@ function Projects() {
               description="Developed a portfolio using React JS allows developers to showcase their skills and projects in a
               modern and dynamic way, utilizing its flexibility and scalability to build a visually appealing and
               highly functional portfolio."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink=""              
+              ghLink="https://github.com/PremAnanth2002/Portfolio.git"              
             />
           </Col>
         </Row>
