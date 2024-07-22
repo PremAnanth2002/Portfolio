@@ -10,12 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
           Greetings!, I'm<span className="purple"> Prem Ananth </span>
             from <span className="purple"> Saveetha Engineering college, Chennai .</span>
-            <br />, a passionate third-year Information Technology student at Saveetha Engineering College in Chennai. Alongside my academic pursuits, I thrive on the creative challenges of web development and the immersive realms of AR/VR technology.
+            <br />, a recent graduate with a passion for web development and a flair for design using Adobe Photoshop and Illustrator. During my time at Saveetha, I immersed myself in Information Technology, exploring the creative challenges of web development. I have a keen interest in merging cutting-edge technology with imaginative experiences to create captivating digital experiences.
 
-Through captivating projects, I blend innovation, aesthetics, and functionality in web development. Simultaneously, I explore the transformative potential of AR/VR, pushing the boundaries of possibility.
-
-Join me, Prem Ananth, on an exhilarating career journey where I merge cutting-edge technology with imaginative experiences. Together, let's create mesmerizing digital worlds that blur the line between reality and imagination.
-
+Aside from coding, I also enjoy playing games and traveling, which fuel my creativity and broaden my perspective.
 
 
 
