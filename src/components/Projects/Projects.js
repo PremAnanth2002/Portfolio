@@ -42,6 +42,18 @@ function Projects() {
               ghLink="https://github.com/PremAnanth2002/Portfolio.git"              
             />
           </Col>
+
+                 <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Tic-Tac-Toe}
+              isBlog={false}
+              title="Tic-Tac-Toe"
+              description="Developed a two-player Tic Tac Toe game using React.js, showcasing proficiency in frontend
+development and interactive web applications."
+              ghLink="https://github.com/PremAnanth2002/Portfolio.git"              
+            />
+          </Col>
+                
         </Row>
       </Container>
     </Container>
